@@ -5,6 +5,13 @@ body {
 
   .p-5, mb-4 {
     text-align: center;
+    background: linear-gradient(to right, #5b4880, #5617ca, #2b14d9);
+    color: white;
+    border-radius: 0;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    border-bottom: 10px solid rgb(92, 92, 92);
   }
   
   textarea {
@@ -60,4 +67,12 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
+  }
+
+  #clearFieldsBtn {
+    margin-top: 10px;
+  }
+
+  .white-text {
+    color: white;
   }
