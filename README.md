@@ -37,5 +37,5 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages
 
 ## Notes
-Live Link
+[Live link](https://leybaair.github.io/Schedule-Me-In/)
 Image Screen Shot
