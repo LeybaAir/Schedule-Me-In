@@ -38,4 +38,4 @@ Repository contains multiple descriptive commit messages
 
 ## Notes
 [Live link](https://leybaair.github.io/Schedule-Me-In/)
-Image Screen Shot
+Image Screen Shot: ![On a desktop, image displays finished project]()
